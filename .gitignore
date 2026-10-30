@@ -1,0 +1,15 @@
+# Environnement Python
+.venv/
+__pycache__/
+
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système macOS
+.DS_Store
+
+# Variables sensibles
+.env
+
+# Données brutes
+data/raw/
